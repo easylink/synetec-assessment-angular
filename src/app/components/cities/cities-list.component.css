@@ -16,3 +16,12 @@
 .panel-body{
     display: none;
 }
+
+.empty {
+    opacity: 0.3;
+}
+
+.error-display {
+    text-align: center;
+    width: 100%;
+}
